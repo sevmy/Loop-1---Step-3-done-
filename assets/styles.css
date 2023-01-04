@@ -1,0 +1,75 @@
+.loop-3 {
+    background-color: rgb(62, 158, 158);
+    /* position: relative; */
+    width: 1200px;
+    height: 1000px;
+}
+
+.bgcolor {
+    /* position: absolute; */
+    display: inline-block;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 450px;
+    margin-left: 345px;
+    margin-top: 200px; 
+}
+
+.SW {
+    display: flex;
+    gap: 298px;
+    align-items: center;
+    justify-content: center;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+.Tfy {
+    color: grey;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+}
+
+.CCT {
+    align-items: center;
+    justify-content: center;
+}
+
+.CVSS {
+    display: flex;
+    gap: 204px;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    color: grey;
+}
+
+p {
+    color: black;
+}
+
+.CAGG {
+    display: flex;
+    gap: 216px; 
+    align-items: center;
+    justify-content: center;
+}
+
+.total {
+    display: flex;
+    gap: 374px; 
+    align-items: center;
+    justify-content: center;  
+}
+
+.bike {
+    display: inline-block;
+    margin-top: -95px;
+}
